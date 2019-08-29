@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CloudBackup", "CloudBackup\CloudBackup.vcxproj", "{54B72AFB-BCFF-4DF7-97CC-81917542838E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B72AFB-BCFF-4DF7-97CC-81917542838E}.Debug|x64.ActiveCfg = Debug|x64
+		{54B72AFB-BCFF-4DF7-97CC-81917542838E}.Debug|x64.Build.0 = Debug|x64
+		{54B72AFB-BCFF-4DF7-97CC-81917542838E}.Debug|x86.ActiveCfg = Debug|Win32
+		{54B72AFB-BCFF-4DF7-97CC-81917542838E}.Debug|x86.Build.0 = Debug|Win32
+		{54B72AFB-BCFF-4DF7-97CC-81917542838E}.Release|x64.ActiveCfg = Release|x64
+		{54B72AFB-BCFF-4DF7-97CC-81917542838E}.Release|x64.Build.0 = Release|x64
+		{54B72AFB-BCFF-4DF7-97CC-81917542838E}.Release|x86.ActiveCfg = Release|Win32
+		{54B72AFB-BCFF-4DF7-97CC-81917542838E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E304B1-0F5C-4982-A49A-EFA557F250CF}
+	EndGlobalSection
+EndGlobal
